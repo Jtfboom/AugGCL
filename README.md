@@ -43,7 +43,7 @@ git clone https://github.com/Jtfboom/AugGCL.git
 ### 10x Visium 
 The dataset can be download [here](https://github.com/LieberInstitute/HumanPilot/)
 ### Human Breast Cancer Data 
-The dataset can be download [here](https://www.10xgenomics.com/resources/datasets/humanbreast-cancerblock-a-section-1-1-standard-1-1-0)
+The dataset can be download [here](https://www.10xgenomics.com/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0)
 ### Mouse Embryos at E9.5 Data
 The dataset can be download [here](https://db.cngb.org/stomics/mosta/)
 
