@@ -6,5 +6,6 @@
 
 On datasets from the human dorsolateral prefrontal cortex, breast cancer, and mouse embryo, AugGCL outperforms traditional baseline methods across multiple evaluation metrics, demonstrating its robustness and generalization across various datasets.
 
-![Image text]((https://github.com/Jtfboom/AugGCL/edit/master/AugGCL.png))
+![Image text](https://github.com/QSong-github/SiGra/blob/main/Figure.png)
+
 
