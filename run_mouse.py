@@ -11,7 +11,7 @@ if __name__ == "__main__":
     parser.add_argument('--root', type=str, default='./dataset/mouse/')
     parser.add_argument('--epochs', type=int, default=200)
     parser.add_argument('--id', type=str, default='151507', help='样本 ID')  # 样本ID
-    parser.add_argument('--seed', type=int, default=545)
+    parser.add_argument('--seed', type=int, default=853)
     parser.add_argument('--save_path', type=str, default='./checkpoint/mouse_train/')
     parser.add_argument('--ncluster', type=int, default=12)
     parser.add_argument('--rad_cutoff', type=int, default=2)
