@@ -67,7 +67,7 @@ The dataset can be download [here](https://db.cngb.org/stomics/mosta/)
 
 Follow the complete AugGCL process:
 
-- **Data processing, training, and visualization**: [AugGCL full tutorial](https://github.com/Jtfboom/AugGCL/blob/master/Tutorial.ipynb)
+- **Data processing, training, and visualization**: [AugGCL tutorial](https://github.com/Jtfboom/AugGCL/blob/master/Tutorial.ipynb)
 
 Training Script
 ```
