@@ -1,5 +1,5 @@
 import argparse
-from train_mouse import train_mouse  # 假设这是你的训练函数
+from train_mouse import train_mouse  
 
 
 # 示例用法
